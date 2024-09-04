@@ -1,0 +1,4 @@
+- Hi, I’m Samuel Abidoye
+- Welcome to my GitHub profile! I'm a React Native developer with a focus on building high-quality mobile applications. I love learning and turning ideas into reality.
+- Proficient in Html, Css, Javascript, React, React Native, Expo, AWS
+- 📫 Connect with me at samking4521@gmail.com
